@@ -1,0 +1,13 @@
+C:\Users\danii\source\repos\ServMes\ServMes\bin\Debug\netcoreapp3.1\ServMes.exe
+C:\Users\danii\source\repos\ServMes\ServMes\bin\Debug\netcoreapp3.1\ServMes.deps.json
+C:\Users\danii\source\repos\ServMes\ServMes\bin\Debug\netcoreapp3.1\ServMes.runtimeconfig.json
+C:\Users\danii\source\repos\ServMes\ServMes\bin\Debug\netcoreapp3.1\ServMes.runtimeconfig.dev.json
+C:\Users\danii\source\repos\ServMes\ServMes\bin\Debug\netcoreapp3.1\ServMes.dll
+C:\Users\danii\source\repos\ServMes\ServMes\bin\Debug\netcoreapp3.1\ServMes.pdb
+C:\Users\danii\source\repos\ServMes\ServMes\obj\Debug\netcoreapp3.1\ServMes.csprojAssemblyReference.cache
+C:\Users\danii\source\repos\ServMes\ServMes\obj\Debug\netcoreapp3.1\ServMes.AssemblyInfoInputs.cache
+C:\Users\danii\source\repos\ServMes\ServMes\obj\Debug\netcoreapp3.1\ServMes.AssemblyInfo.cs
+C:\Users\danii\source\repos\ServMes\ServMes\obj\Debug\netcoreapp3.1\ServMes.csproj.CoreCompileInputs.cache
+C:\Users\danii\source\repos\ServMes\ServMes\obj\Debug\netcoreapp3.1\ServMes.dll
+C:\Users\danii\source\repos\ServMes\ServMes\obj\Debug\netcoreapp3.1\ServMes.pdb
+C:\Users\danii\source\repos\ServMes\ServMes\obj\Debug\netcoreapp3.1\ServMes.genruntimeconfig.cache

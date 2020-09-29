@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServMes", "ServMes\ServMes.csproj", "{EAE69E42-E628-42F1-B4F2-A1389945BE73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAE69E42-E628-42F1-B4F2-A1389945BE73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAE69E42-E628-42F1-B4F2-A1389945BE73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAE69E42-E628-42F1-B4F2-A1389945BE73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAE69E42-E628-42F1-B4F2-A1389945BE73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0C39F6F-331A-478D-8513-02BF93125BA6}
+	EndGlobalSection
+EndGlobal
